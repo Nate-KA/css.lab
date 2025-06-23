@@ -5,7 +5,15 @@ body {
   padding: 0;
   background-color: #e9f1f7;
 }
-
+.navbar a{
+      background-color: black;
+      overflow: hidden;
+      float: left;
+      display: block;
+      color: dimgray;
+      text-align: center;
+      padding: 14px 20px;
+    }
 /* Header Section */
 .header {
   background-color: #333;
